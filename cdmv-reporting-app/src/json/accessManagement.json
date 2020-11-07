@@ -1,0 +1,48 @@
+{
+    "columns": [
+        {
+            "field": "GroupName",
+            "header": "Group Name",
+            "sortable": true,
+            "filter": false,
+            "width": 200
+        },
+        {
+            "field": "PageAccess",
+            "header": "Page Access",
+            "sortable": true,
+            "filter": false,
+            "width": 200
+        }
+    ],
+    "columnData": [
+        {
+            "GroupName": "CISCO",
+            "PageAccess": "Home"
+        },
+        {
+            "GroupName": "CISCO",
+            "PageAccess": "RexaReport"
+        },
+        {
+            "GroupName": "CISCO",
+            "PageAccess": "T1Report"
+        },
+        {
+            "GroupName": "CISCO",
+            "PageAccess": "Aboutus"
+        },
+        {
+            "GroupName": "IBM",
+            "PageAccess": "Home"
+        },
+        {
+            "GroupName": "IBM",
+            "PageAccess": "IBMReport"
+        },
+        {
+            "GroupName": "IBM",
+            "PageAccess": "Aboutus"
+        }
+    ]
+}

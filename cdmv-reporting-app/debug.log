@@ -1,0 +1,14 @@
+[0717/171429.479:ERROR:file_io.cc(89)] ReadExactly: expected 152, observed 40
+[0718/082910.281:ERROR:settings.cc(325)] Settings version is not 1
+[0725/141913.322:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0725/141913.337:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0725/141913.337:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0725/141913.337:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0725/141913.337:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0725/141913.337:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0725/141913.337:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0725/141913.337:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0725/141913.337:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0725/141913.337:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0725/141913.337:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0725/141913.337:ERROR:exception_snapshot_win.cc(98)] thread ID 13572 not found in process
